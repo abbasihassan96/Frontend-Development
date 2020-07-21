@@ -87,3 +87,15 @@ a:hover, a:visited, a:active {
   color: #506a85;
   line-height: 48px;
 }
+
+/**Section Hero**/
+
+.hero {
+  height: 660px;
+  background-color: #506984;
+}
+
+.hero h1 {
+  display: block;
+  width: 100%;
+}
